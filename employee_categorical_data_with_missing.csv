@@ -1,0 +1,201 @@
+Employee_ID,Gender,Department,Job_Role,Education_Level,Experience_Years,Performance_Rating,Employment_Type
+E001,Other,Sales,Sales Executive,High School,23.0,Average,Contract
+E002,Male,HR,Recruiter,PhD,17.0,Poor,Full-Time
+E003,Male,Finance,Financial Analyst,Master's,15.0,Below Average,Part-Time
+E004,Female,Engineering,Systems Analyst,Bachelor's,4.0,Excellent,Intern
+E005,Other,Marketing,SEO Specialist,High School,24.0,Good,Intern
+E006,Female,Marketing,Marketing Executive,PhD,25.0,Poor,Intern
+E007,Other,Finance,Accountant,Bachelor's,9.0,Below Average,Full-Time
+E008,Female,Sales,Sales Executive,High School,25.0,Average,Full-Time
+E009,Male,Marketing,Marketing Executive,Bachelor's,23.0,Poor,Full-Time
+E010,Other,HR,Recruiter,PhD,12.0,Average,Full-Time
+E011,Male,Finance,Financial Analyst,Master's,19.0,Average,Full-Time
+E012,Male,HR,Recruiter,Bachelor's,4.0,Good,Intern
+E013,Male,Sales,Sales Executive,Bachelor's,22.0,Poor,Full-Time
+E014,Female,Engineering,Software Engineer,Bachelor's,9.0,Good,Intern
+E015,Female,HR,Recruiter,High School,6.0,Poor,Part-Time
+E016,Other,Finance,Accountant,High School,23.0,Excellent,Full-Time
+E017,Female,Sales,Sales Manager,Bachelor's,23.0,Good,Contract
+E018,Female,Marketing,Marketing Executive,High School,11.0,Average,Part-Time
+E019,Male,Marketing,SEO Specialist,PhD,11.0,Below Average,Contract
+E020,Other,Support,Customer Support,High School,15.0,Below Average,Intern
+E021,Male,Support,Customer Support,PhD,23.0,Excellent,Intern
+E022,Female,Engineering,Systems Analyst,Master's,9.0,Good,Contract
+E023,Male,Sales,Sales Manager,PhD,,Average,Part-Time
+E024,Other,Engineering,Software Engineer,PhD,1.0,Average,Contract
+E025,Female,Engineering,Systems Analyst,Bachelor's,,Below Average,Full-Time
+E026,Female,Sales,Sales Manager,Master's,16.0,Good,Full-Time
+E027,Other,HR,HR Executive,Bachelor's,13.0,Poor,Contract
+E028,Other,Engineering,Systems Analyst,PhD,17.0,Below Average,Full-Time
+E029,Other,Engineering,Systems Analyst,High School,15.0,Excellent,Part-Time
+E030,Female,Marketing,SEO Specialist,High School,0.0,Average,Intern
+E031,Male,Support,Technical Support,Bachelor's,8.0,Good,Contract
+E032,Other,Marketing,SEO Specialist,Master's,,Below Average,Full-Time
+E033,Male,Finance,Financial Analyst,PhD,4.0,Average,Part-Time
+E034,Other,Sales,Sales Executive,PhD,7.0,Good,Full-Time
+E035,Other,Sales,Sales Executive,PhD,4.0,Poor,Intern
+E036,Male,HR,HR Executive,Master's,14.0,Below Average,Intern
+E037,Female,Engineering,Systems Analyst,Master's,16.0,Poor,Full-Time
+E038,Female,Sales,Sales Manager,PhD,16.0,Poor,Full-Time
+E039,Female,HR,Recruiter,High School,11.0,Average,Part-Time
+E040,Male,Support,Customer Support,High School,8.0,Average,Full-Time
+E041,Other,Marketing,Marketing Executive,PhD,,Good,Contract
+E042,Other,Finance,Accountant,Master's,11.0,Good,Contract
+E043,Other,Support,Customer Support,Master's,22.0,Poor,Contract
+E044,Other,Engineering,Systems Analyst,PhD,,Average,Part-Time
+E045,Male,Finance,Financial Analyst,PhD,23.0,Average,Contract
+E046,Male,Sales,Sales Manager,High School,15.0,Good,Full-Time
+E047,Female,Sales,Sales Executive,Master's,14.0,Average,Contract
+E048,Female,HR,HR Executive,PhD,2.0,Below Average,Part-Time
+E049,Other,Finance,Accountant,Master's,21.0,Poor,Intern
+E050,Male,HR,HR Executive,High School,15.0,Excellent,Part-Time
+E051,Female,Finance,Financial Analyst,PhD,20.0,Good,Full-Time
+E052,Other,Finance,Financial Analyst,Bachelor's,8.0,Excellent,Intern
+E053,Male,Engineering,Hardware Engineer,High School,13.0,Excellent,Full-Time
+E054,Male,Sales,Sales Executive,Master's,24.0,Excellent,Full-Time
+E055,Other,Marketing,Marketing Executive,Bachelor's,,Below Average,Intern
+E056,Male,Sales,Sales Executive,High School,9.0,Good,Contract
+E057,Female,Sales,Sales Manager,Master's,7.0,Poor,Full-Time
+E058,Male,Sales,Sales Manager,PhD,,Average,Contract
+E059,Other,Support,Customer Support,Bachelor's,16.0,Below Average,Full-Time
+E060,Female,Marketing,Marketing Executive,Master's,22.0,Below Average,Part-Time
+E061,Male,HR,Recruiter,Master's,24.0,Excellent,Full-Time
+E062,Male,Engineering,Hardware Engineer,High School,,Good,Contract
+E063,Male,Support,Technical Support,Bachelor's,24.0,Below Average,Contract
+E064,Other,Support,Customer Support,Master's,9.0,Below Average,Full-Time
+E065,Other,Engineering,Hardware Engineer,Master's,3.0,Below Average,Intern
+E066,Male,Engineering,Systems Analyst,High School,6.0,Below Average,Contract
+E067,Other,Engineering,Hardware Engineer,PhD,23.0,Average,Part-Time
+E068,Other,Support,Customer Support,PhD,23.0,Poor,Part-Time
+E069,Other,Finance,Accountant,High School,18.0,Below Average,Full-Time
+E070,Female,Sales,Sales Executive,PhD,24.0,Excellent,Intern
+E071,Other,HR,Recruiter,High School,10.0,Good,Contract
+E072,Female,Engineering,Software Engineer,Master's,5.0,Poor,Intern
+E073,Male,Marketing,SEO Specialist,Bachelor's,,Poor,Contract
+E074,Other,Sales,Sales Executive,PhD,20.0,Poor,Contract
+E075,Male,Marketing,SEO Specialist,High School,23.0,Excellent,Part-Time
+E076,Male,Support,Technical Support,PhD,19.0,Excellent,Contract
+E077,Other,Support,Technical Support,Master's,22.0,Good,Part-Time
+E078,Male,Finance,Financial Analyst,Bachelor's,16.0,Good,Full-Time
+E079,Female,Support,Customer Support,PhD,23.0,Poor,Part-Time
+E080,Other,Engineering,Hardware Engineer,PhD,15.0,Below Average,Full-Time
+E081,Male,HR,HR Executive,PhD,5.0,Average,Contract
+E082,Female,Sales,Sales Manager,High School,19.0,Excellent,Contract
+E083,Other,Engineering,Systems Analyst,High School,12.0,Excellent,Intern
+E084,Male,Engineering,Software Engineer,PhD,9.0,Excellent,Intern
+E085,Female,HR,Recruiter,Bachelor's,2.0,Excellent,Full-Time
+E086,Other,Finance,Accountant,Master's,2.0,Average,Part-Time
+E087,Female,Support,Technical Support,PhD,5.0,Good,Contract
+E088,Other,Support,Technical Support,Master's,25.0,Poor,Contract
+E089,Female,Sales,Sales Manager,Bachelor's,11.0,Below Average,Part-Time
+E090,Female,Support,Technical Support,Master's,5.0,Excellent,Intern
+E091,Other,Marketing,SEO Specialist,Master's,3.0,Below Average,Intern
+E092,Female,Engineering,Software Engineer,Master's,13.0,Excellent,Intern
+E093,Female,Engineering,Software Engineer,Bachelor's,10.0,Below Average,Full-Time
+E094,Other,Support,Customer Support,Master's,16.0,Below Average,Part-Time
+E095,Male,Sales,Sales Manager,Master's,18.0,Average,Full-Time
+E096,Female,HR,HR Executive,Bachelor's,22.0,Poor,Part-Time
+E097,Other,Support,Customer Support,Bachelor's,11.0,Below Average,Part-Time
+E098,Other,Engineering,Hardware Engineer,Master's,24.0,Good,Intern
+E099,Male,Engineering,Software Engineer,Bachelor's,4.0,Average,Contract
+E100,Male,Finance,Financial Analyst,High School,3.0,Excellent,Part-Time
+E101,Other,Engineering,Hardware Engineer,Master's,22.0,Excellent,Full-Time
+E102,Female,Engineering,Software Engineer,High School,6.0,Below Average,Part-Time
+E103,Other,Finance,Financial Analyst,Master's,4.0,Good,Intern
+E104,Female,Finance,Financial Analyst,PhD,12.0,Good,Full-Time
+E105,Male,Marketing,SEO Specialist,Bachelor's,16.0,Average,Intern
+E106,Female,HR,Recruiter,Master's,9.0,Good,Intern
+E107,Other,Sales,Sales Executive,PhD,20.0,Excellent,Intern
+E108,Male,Finance,Financial Analyst,PhD,7.0,Below Average,Intern
+E109,Male,Engineering,Systems Analyst,Master's,12.0,Good,Intern
+E110,Female,Sales,Sales Executive,PhD,5.0,Excellent,Part-Time
+E111,Female,Finance,Accountant,Master's,4.0,Good,Intern
+E112,Other,Finance,Accountant,High School,2.0,Good,Intern
+E113,Male,Marketing,Marketing Executive,Bachelor's,20.0,Poor,Part-Time
+E114,Other,HR,HR Executive,Master's,14.0,Poor,Part-Time
+E115,Male,Finance,Accountant,PhD,23.0,Good,Contract
+E116,Other,Finance,Accountant,High School,12.0,Excellent,Intern
+E117,Other,Marketing,SEO Specialist,Master's,24.0,Poor,Part-Time
+E118,Female,Marketing,Marketing Executive,Master's,17.0,Average,Full-Time
+E119,Male,Support,Customer Support,PhD,24.0,Average,Contract
+E120,Female,Finance,Accountant,Master's,22.0,Below Average,Part-Time
+E121,Other,Support,Customer Support,Master's,7.0,Excellent,Full-Time
+E122,Female,Finance,Financial Analyst,Bachelor's,,Average,Part-Time
+E123,Female,Engineering,Hardware Engineer,High School,10.0,Average,Contract
+E124,Female,Engineering,Software Engineer,High School,,Below Average,Contract
+E125,Other,Finance,Accountant,Master's,22.0,Good,Intern
+E126,Female,Engineering,Hardware Engineer,High School,4.0,Average,Full-Time
+E127,Other,Support,Technical Support,PhD,17.0,Below Average,Intern
+E128,Other,Engineering,Systems Analyst,Bachelor's,23.0,Excellent,Full-Time
+E129,Other,Support,Technical Support,High School,10.0,Below Average,Part-Time
+E130,Female,Finance,Financial Analyst,PhD,9.0,Excellent,Part-Time
+E131,Male,HR,Recruiter,Master's,1.0,Average,Full-Time
+E132,Male,Finance,Accountant,High School,14.0,Average,Intern
+E133,Other,HR,HR Executive,Bachelor's,3.0,Average,Intern
+E134,Female,Finance,Accountant,PhD,25.0,Excellent,Full-Time
+E135,Other,Marketing,SEO Specialist,Bachelor's,11.0,Average,Intern
+E136,Male,Finance,Accountant,PhD,18.0,Below Average,Intern
+E137,Other,Marketing,SEO Specialist,Bachelor's,,Average,Intern
+E138,Female,HR,HR Executive,PhD,14.0,Below Average,Contract
+E139,Female,Support,Technical Support,Master's,0.0,Below Average,Full-Time
+E140,Male,Support,Technical Support,Master's,5.0,Below Average,Intern
+E141,Other,Finance,Financial Analyst,Master's,,Below Average,Part-Time
+E142,Other,Marketing,SEO Specialist,Master's,23.0,Good,Part-Time
+E143,Male,Marketing,SEO Specialist,PhD,15.0,Average,Part-Time
+E144,Male,HR,HR Executive,Master's,2.0,Excellent,Part-Time
+E145,Other,Marketing,Marketing Executive,Master's,3.0,Average,Intern
+E146,Male,Finance,Financial Analyst,Master's,0.0,Poor,Intern
+E147,Other,HR,HR Executive,High School,,Poor,Part-Time
+E148,Male,Support,Technical Support,High School,10.0,Poor,Contract
+E149,Male,Sales,Sales Executive,PhD,11.0,Good,Part-Time
+E150,Other,Finance,Accountant,Master's,14.0,Average,Part-Time
+E151,Other,Engineering,Systems Analyst,PhD,19.0,Good,Part-Time
+E152,Male,Finance,Financial Analyst,PhD,15.0,Below Average,Contract
+E153,Other,Sales,Sales Executive,High School,1.0,Poor,Intern
+E154,Female,Marketing,SEO Specialist,High School,14.0,Average,Contract
+E155,Other,Finance,Accountant,PhD,17.0,Excellent,Full-Time
+E156,Other,Sales,Sales Manager,Master's,,Average,Contract
+E157,Male,Finance,Accountant,PhD,9.0,Excellent,Part-Time
+E158,Male,Engineering,Software Engineer,High School,,Average,Contract
+E159,Other,Engineering,Hardware Engineer,Bachelor's,15.0,Poor,Contract
+E160,Other,Marketing,SEO Specialist,PhD,17.0,Poor,Part-Time
+E161,Other,Marketing,SEO Specialist,High School,23.0,Average,Full-Time
+E162,Male,Engineering,Software Engineer,Bachelor's,22.0,Average,Part-Time
+E163,Male,HR,HR Executive,High School,18.0,Average,Contract
+E164,Other,HR,Recruiter,PhD,8.0,Average,Contract
+E165,Male,Support,Technical Support,Master's,18.0,Good,Contract
+E166,Male,Marketing,Marketing Executive,PhD,0.0,Excellent,Contract
+E167,Male,Finance,Financial Analyst,Master's,10.0,Average,Intern
+E168,Male,Support,Technical Support,High School,12.0,Excellent,Full-Time
+E169,Other,Sales,Sales Executive,High School,13.0,Good,Part-Time
+E170,Female,Marketing,Marketing Executive,Master's,25.0,Below Average,Contract
+E171,Male,Engineering,Hardware Engineer,PhD,25.0,Poor,Intern
+E172,Other,Support,Customer Support,Bachelor's,14.0,Poor,Part-Time
+E173,Female,Finance,Financial Analyst,PhD,,Below Average,Part-Time
+E174,Male,Sales,Sales Executive,Bachelor's,3.0,Good,Intern
+E175,Other,Marketing,Marketing Executive,Bachelor's,15.0,Good,Contract
+E176,Male,HR,Recruiter,Master's,6.0,Good,Full-Time
+E177,Male,Engineering,Systems Analyst,PhD,20.0,Excellent,Part-Time
+E178,Male,Marketing,SEO Specialist,Bachelor's,23.0,Below Average,Contract
+E179,Female,Support,Customer Support,PhD,21.0,Good,Full-Time
+E180,Female,Marketing,SEO Specialist,Bachelor's,12.0,Excellent,Contract
+E181,Female,Finance,Accountant,Bachelor's,15.0,Good,Contract
+E182,Male,Support,Technical Support,Bachelor's,23.0,Poor,Part-Time
+E183,Male,Finance,Accountant,Master's,19.0,Average,Intern
+E184,Other,Marketing,Marketing Executive,PhD,12.0,Average,Contract
+E185,Other,Finance,Accountant,Master's,23.0,Average,Intern
+E186,Female,Sales,Sales Manager,PhD,0.0,Excellent,Full-Time
+E187,Female,Engineering,Software Engineer,Bachelor's,,Good,Intern
+E188,Other,HR,Recruiter,PhD,16.0,Below Average,Full-Time
+E189,Male,Engineering,Hardware Engineer,PhD,,Good,Contract
+E190,Male,HR,Recruiter,High School,9.0,Poor,Part-Time
+E191,Female,HR,Recruiter,High School,19.0,Good,Part-Time
+E192,Other,Sales,Sales Manager,High School,2.0,Good,Intern
+E193,Other,HR,HR Executive,Master's,23.0,Below Average,Full-Time
+E194,Other,Marketing,Marketing Executive,High School,18.0,Excellent,Contract
+E195,Other,Engineering,Systems Analyst,Bachelor's,17.0,Below Average,Full-Time
+E196,Male,Engineering,Hardware Engineer,High School,11.0,Excellent,Intern
+E197,Female,Support,Technical Support,Master's,,Average,Full-Time
+E198,Other,Support,Customer Support,High School,8.0,Excellent,Intern
+E199,Male,Engineering,Hardware Engineer,Bachelor's,2.0,Below Average,Full-Time
+E200,Male,Engineering,Hardware Engineer,Master's,10.0,Good,Contract
