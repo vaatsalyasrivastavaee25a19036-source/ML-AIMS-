@@ -12,14 +12,15 @@ print(reducedX.head(25))
 X2=X.copy()
 X2 = X1.copy()
 colsmissing = [col for col in X2.columns if X2[col].isnull().any()]
-mean_values = X2[colsmissing].mean().to_dict()
-X2.fillna(value=mean_values, inplace=True)
+meanvalues = X2[colsmissing].mean().to_dict()
+X2.fillna(value=meanvalues, inplace=True)
 print(X2.head(25))
 # 3.using extended imputations
 X3 = X.copy()
 colsmissing = [col for col in X3.columns if X3[col].isnull().any()]
 for col in colsmissing:
  X3[col + '_was_missing'] = X3[col].isnull()
-mean_values = X3[colsmissing].mean().to_dict()
-X3.fillna(value=mean_values, inplace=True)
+meanvalues = X3[colsmissing].mean().to_dict()
+X3.fillna(value=meanvalues, inplace=True)
 print(X3.head(25))
+
