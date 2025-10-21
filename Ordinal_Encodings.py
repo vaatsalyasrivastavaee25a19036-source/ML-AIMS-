@@ -5,18 +5,18 @@ X=data
 X1=data.copy()
 categorycolumns=X1.select_dtypes(include="object").columns
 for col in categorycolumns:
-    X1[col+'_encoded']=X1[col].astype('category').cat.codes
+    X1[col+'encoded']=X1[col].astype('category').cat.codes
     X1=X1.drop(col,axis=1)
     print(X1.head())
     # List comprehension method 
     X2=data.copy()
-    Gender_encodings={
+    Genderencodings={
       "Male":0,
       "Female":1,
       "Other":2
     }
     X2=data.copy()
-    X2["Gender_Encoded"]=X2['Gender'].map(Gender_encodings)
+    X2["GenderEncoded"]=X2['Gender'].map(Genderencodings)
     X2.drop("Gender",axis=1)
     print(X2.head())
     
