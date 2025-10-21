@@ -11,8 +11,9 @@ numsamples = len(column)
 array = np.identity(numcategories)[codes]
 columnnames = [f'Dept{cat}'for cat in categories]
 Df = pd.DataFrame(array,columns=columnnames,index=X1.index)
-Xencoded = pd.concat([X1.drop('Department',axis=1),Df],axis=1)
+Xencoded = pd.concat([X1.drop('Performance_Rating',axis=1),Df],axis=1)
 print(Xencoded.head())
+
 
 
 
